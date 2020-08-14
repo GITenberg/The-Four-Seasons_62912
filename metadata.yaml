@@ -1,5 +1,5 @@
 _repo: The-Four-Seasons_62912
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Mattos, Alexander Teixeria de
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '49266'
     url: http://www.gutenberg.org/2009/agents/49266
+covers:
+- cover_type: archival
+  image_path: 62912-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Carl_Ewald
     - https://da.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62912#The-Four-Seasons
 gutenberg_issued: '2020-08-12'
 gutenberg_type: Text
 identifiers:
